@@ -1,4 +1,4 @@
 finoramic folder contains 2 sub-folders Interviewbit-coding and linux-challenge.
-In finoramic/Interviewbit-coding the accepted codes for given 3 problems reside.
-In finoramic/linux-challenge, you have three files 'd.json', 'dd.json', 'script.py', 
+In finoramic/Interviewbit-coding, the accepted codes for given 3 problems reside.
+In finoramic/linux-challenge, you have three files 'd.json', 'dd.json', 'script.py'. 
 'd.json' contains all given dependencies while 'dd.json' contains one unknown dependencies(wrong one), just to handle the case when a particular dependency could not be downloaded and installed. The name of the json file is hard-coded to 'd.json' by default. With 'd.json' file there wont be errors and all the dependencies will be downloaded successfully when you will run the script. Check with 'dd.json' and see how the case is handled when a particular dependencies is not downloaded and installed, which can be done by just changing the file name to 'dd.json'. 'script.py' contains the python code.
